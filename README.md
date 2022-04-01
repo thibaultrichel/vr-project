@@ -17,6 +17,6 @@ Attrapez le marteau avec le grip de la manette. Tapez ensuite les clous avec la 
 À gauche de la scène, sur la deuxième boîte, vous trouverez 3 marqueurs : un bleu, un vert et un rouge. Attrapez les avec le grip de la manette.
 Ensuite, dessinez sur le tableau blanc devant vous. Attention : certains marqueurs peuvent s'envoler si vous les lancez trop fort... ;)
 
-
+##### Lien de la vidéo de démo : https://youtu.be/fvpxe3l17jE
 
 ###### Fait par Thibault RICHEL, Jean-Baptiste DEYDIER et Terence BONIN
